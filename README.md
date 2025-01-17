@@ -54,7 +54,7 @@ Aidentify is a Flutter application that helps users identify products and find n
      OPENAI_API_KEY=your_openai_api_key
      GOOGLE_API_KEY=your_google_maps_api_key
      ```
-
+  - Add the Google Maps API key YOUR_GOOGLE_MAPS_API_KEY to the `AppDelegate.swift` file in the `ios/Runner` directory
 4. Run the app:
    ```bash
    flutter run
